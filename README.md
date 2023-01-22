@@ -1,7 +1,7 @@
 
 # BlackCoffer - EMS
 
-BlockCoffer Internship Assesment task: Employee Management System uisng Rest-API, SpringBoot, Thymeleaf, SpringSecurity, SQL
+BlackCoffer Internship Assesment task: Employee Management System uisng Rest-API, SpringBoot, Thymeleaf, SpringSecurity, SQL
 
 
 ## API Reference
