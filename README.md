@@ -75,7 +75,7 @@ BlackCoffer Internship Assesment task: Employee Management System uisng Rest-API
 
 #### To Delete Employee
 ```http
-  DELETE http://localhost:8080//deleteEmployee/{id}
+  DELETE http://localhost:8080/deleteEmployee/{id}
 ```
 
 
